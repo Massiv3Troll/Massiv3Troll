@@ -1,11 +1,5 @@
 ## Hi there 👋
 
-**My Steam Profile** *(from [SteamDB](https://steamdb.info/calculator/76561198052517138/?cc=us))*
-* **Value:** $857
-* **Games owned:** 189
-* **Games played:** 50 *(26%)*
-
-* **Hours on record:** 541.4h
 <!--
 **Massiv3Troll/Massiv3Troll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
