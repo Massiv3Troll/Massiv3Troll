@@ -1,4 +1,4 @@
-# Visit https://github.com/lowlighter/metrics#-documentation for full reference
+ric# Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics
 on:
   # Schedule updates (every 3 hours)
@@ -33,7 +33,7 @@ jobs:
           #  - read:user     (for user related data)
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
-          token: ${{ secrets.GH_PAT }}
+          token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
           user: Massiv3Troll
